@@ -91,8 +91,8 @@
   </a>
 </td>
 <td align="center" width="50%">
-  <a href="https://github.com/Rahul-web-2/Text-Converter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-web-2&repo=Text-Converter&theme=tokyonight&hide_border=true" alt="Text Converter" />
+  <a href="https://github.com/Rahul-web-2/Text-conveter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-web-2&repo=Text-conveter&theme=tokyonight&hide_border=true" alt="Text Converter" />
   </a>
 </td>
 </tr>
@@ -102,8 +102,8 @@
 |---------|-----------|-------|-------|
 | 📚 **LibraStore** | _One-line description_ | Java · Spring Boot · MySQL · React | [Code](https://github.com/Rahul-web-2/LibraStore) · [Live Demo](#) |
 | 🤝 **TaskBridge** | _One-line description_ | _Stack_ | [Code](https://github.com/Rahul-web-2/TaskBridge) · [Live Demo](#) |
-| 📰 **Daily News** | _One-line description_ | _Stack_ | [Code](https://github.com/Rahul-web-2/Daily-News) · [Live Demo](#) |
-| 🔤 **Text Converter** | _One-line description_ | _Stack_ | [Code](https://github.com/Rahul-web-2/Text-Converter) · [Live Demo](#) |
+| 📰 **Daily News** | Top headlines and latest news (sports, business, world) fetched live from News API | JavaScript · Fetch API · News API | [Code](https://github.com/Rahul-web-2/Daily-News) · [Live Demo](#) |
+| 🔤 **Text Converter** | Utility app to manipulate text typed into a text area | React.js · Bootstrap · CSS | [Code](https://github.com/Rahul-web-2/Text-conveter) · [Live Demo](#) |
 
 ---
 
